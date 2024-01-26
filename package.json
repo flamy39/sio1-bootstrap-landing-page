@@ -2,14 +2,18 @@
   "name": "bootstrap-tp1",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://flamy39.github.io/sio1-bootstrap-landing-page/",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "parcel": "^2.11.0"
   }
 }
