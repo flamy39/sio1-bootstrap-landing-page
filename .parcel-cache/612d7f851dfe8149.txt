@@ -1,4 +1,4 @@
-6487
+6511
 123C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@babel\highlight\node_modules\has-flag\readme.md133507482693595930 0
 99C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\abortcontroller-polyfill133507482697265938 1
 125C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts133507482704105959 1
@@ -326,7 +326,7 @@
 106C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\caniuse-lite\data\regions\AT.js133507482700895949 0
 104C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\svgo\plugins\removeViewBox.js133507482704395967 0
 83C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\css-tree133507482709155955 1
-163C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\index.28940231.js133507485924927969 0
+163C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\index.28940231.js133507492536920606 0
 119C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\caniuse-lite\data\features\feature-policy.js133507482709885937 0
 91C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\async\timeout.js133507483934839374 0
 83C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\css-what133507482698345952 1
@@ -828,6 +828,7 @@
 104C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\ordered-binary\dist\index.cjs133507482692375941 0
 89C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\weak-lru-cache133507482695925945 1
 113C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\make-dir\node_modules\semver\semver.js133507483931889362 0
+200C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\objects\b9\79b2daa4c263e181543f1d6d5047c6a908f120133507492530328652 0
 97C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\dom-serializer\lib\esm133507482697385938 1
 104C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\htmlnano\lib\presets\safe.mjs133507482705275935 0
 175C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\refs\remotes\origin\HEAD133507485899772480 0
@@ -933,6 +934,7 @@
 138C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\lexer\match.js133507482704215960 0
 135C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\csso\node_modules\css-tree\lib\syntax\node\MediaQueryList.js133507482708065953 0
 121C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\css-tree\cjs\syntax\config\parser-selector.cjs133507482705085946 0
+175C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\refs\remotes\origin\main133507492532280432 0
 101C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\utility-types\package.json133507482695115930 0
 104C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\react-refresh\build-info.json133507482695765928 0
 97C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\semver\functions\gt.js133507482697145950 0
@@ -1052,7 +1054,7 @@
 110C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\update-browserslist-db\package.json133507482694565944 0
 110C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\type-fest\source\promise-value.d.ts133507482699775947 0
 134C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.c133507482701545938 0
-168C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\index.c294d8fc.css.map133507485924977952 0
+168C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\index.c294d8fc.css.map133507492536980684 0
 145C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\TypeSelector.js133507482701415943 0
 106C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\update-browserslist-db\utils.js133507482694045939 0
 96C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\css-what\package.json133507482696565974 0
@@ -1115,6 +1117,7 @@
 106C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\caniuse-lite\data\regions\PN.js133507482713745938 0
 123C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\lmdb\node_modules\node-addon-api\tools\README.md133507482698855957 0
 108C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\css-tree\cjs\generator\create.cjs133507482699015932 0
+200C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\objects\5f\7a5ca546365fa46c2571302854679dc585f5be133507492529108616 0
 121C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\node-gyp-build-optional-packages\build-test.js133507482692825934 0
 102C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\type-fest\source\merge.d.ts133507482698825938 0
 102C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\node-addon-api\node_api.gyp133507482692645940 0
@@ -1205,6 +1208,7 @@
 103C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\svgo\plugins\minifyStyles.js133507482702295941 0
 96C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\trim-repeated\license133507483931219378 0
 88C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.bin\svgo.cmd133507482717955935 0
+161C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\objects\60133507492529088634 1
 98C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\to-regex-range\index.js133507482692155941 0
 91C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\parcel\README.md133507482695775945 0
 123C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\csso\node_modules\css-tree\lib\definition-syntax133507482708925967 1
@@ -1631,6 +1635,7 @@
 116C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.bin\node-gyp-build-optional-packages.cmd133507482717945941 0
 132C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\package.json133507482701975929 0
 98C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\msgpackr\test-worker.js133507482698935928 0
+200C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\objects\5e\f00d19a7a2a49dab55f71a13c79087fe4ffd22133507492529148661 0
 106C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\utils\src\DefaultMap.js133507482697625938 0
 108C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\semver\functions\compare-build.js133507482695245961 0
 116C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\caniuse-lite\data\features\css-opacity.js133507482707875961 0
@@ -2278,6 +2283,7 @@
 106C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\caniuse-lite\data\regions\FM.js133507482710145923 0
 87C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\lmdb\open.js133507482706445961 0
 125C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\caniuse-lite\data\features\background-clip-text.js133507482702045939 0
+161C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\objects\e9133507492526134545 1
 120C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\dom-serializer\node_modules\entities\lib\maps133507482696385957 1
 87C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\lmdb\read.js133507482706535951 0
 106C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\lmdb\util\set-optional-deps.cjs133507482704465951 0
@@ -2628,7 +2634,7 @@
 137C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\csso\node_modules\css-tree\cjs\syntax\node\DeclarationList.cjs133507482700405942 0
 104C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@swc\helpers\esm\_defaults.js133507482706335945 0
 95C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\inflight\inflight.js133507483931559370 0
-168C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\formation.bfa4762e.png133507485924887978 0
+168C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\formation.bfa4762e.png133507492536890678 0
 96C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\inflight\package.json133507483930559353 0
 135C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\core\test\fixtures\main-format-mismatch\package.json133507482708135955 0
 93C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\inflight\README.md133507483930859364 0
@@ -2851,6 +2857,7 @@
 93C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\get-port\readme.md133507482694095949 0
 94C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\get-port\index.d.ts133507482692225937 0
 121C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\csso\node_modules\css-tree\cjs\lexer\match.cjs133507482703725947 0
+161C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\objects\92133507492526174457 1
 92C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\get-port\index.js133507482692865938 0
 96C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\get-port\package.json133507482691545931 0
 95C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\fs.realpath\index.js133507483931559370 0
@@ -3085,7 +3092,7 @@
 110C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\runtime-js\src\helpers\node133507482701085941 1
 97C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\domelementtype\lib\esm133507482696025939 1
 112C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\csso\node_modules\css-tree\cjs\walker133507482703305953 1
-175C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\logs\refs\remotes\origin133507485948253629 1
+175C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\logs\refs\remotes\origin133507492532290450 1
 101C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\graph\src\Graph.js133507482697375958 0
 129C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\csso\node_modules\css-tree\lib\syntax\node\Brackets.js133507482706535951 0
 98C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\brace-expansion\LICENSE133507483931169392 0
@@ -3594,7 +3601,7 @@
 111C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\css-tree\lib\syntax\node\Function.js133507482707465937 0
 109C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\utils\src\shared-buffer.js133507482703445948 0
 107C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\css-tree\lib\syntax\node\Hash.js133507482707585938 0
-169C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\html-css-2.adec5795.jpg133507485924887978 0
+169C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\html-css-2.adec5795.jpg133507492536890678 0
 110C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\caniuse-lite\data\features\const.js133507482705725944 0
 113C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\css-tree\lib\syntax\node\Identifier.js133507482707615933 0
 113C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\css-tree\lib\syntax\node\IdSelector.js133507482707635966 0
@@ -3755,7 +3762,7 @@
 115C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\css-tree\cjs\syntax\node\Declaration.cjs133507482700355934 0
 112C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@swc\helpers\esm\_array_with_holes.js133507482705035950 0
 111C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\css-tree\cjs\syntax\node\Feature.cjs133507482701135953 0
-214C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\objects\pack\pack-4a2ef3d5adbe366a45369dc36e136321b4d4286d.pack133507485927647966 0
+214C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\objects\pack\pack-4a2ef3d5adbe366a45369dc36e136321b4d4286d.pack133507492537410602 0
 108C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@swc\helpers\cjs\_export_star.cjs133507482701305956 0
 116C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\css-tree\cjs\syntax\node\FeatureRange.cjs133507482701205939 0
 114C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\css-tree\cjs\syntax\node\IdSelector.cjs133507482702285943 0
@@ -3963,7 +3970,7 @@
 149C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Atrule.js133507482694565944 0
 128C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\runtime-js\src\helpers\browser\html-loader.js133507482698645961 0
 130C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\css-select\node_modules\domutils\lib\stringify.d.ts.map133507482701195925 0
-161C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\FETCH_HEAD133507485917883965 0
+161C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\FETCH_HEAD133507492532320443 0
 126C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\css-select\node_modules\domutils\lib\traversal.d.ts133507482702945965 0
 116C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@swc\helpers\src\_non_iterable_spread.mjs133507482710835955 0
 128C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\css-select\node_modules\domutils\lib\esm\feeds.js.map133507482698795931 0
@@ -4075,7 +4082,7 @@
 106C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\css-select\lib\esm\compile.d.ts133507482703695951 0
 99C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\argparse\lib\textwrap.js133507482694865933 0
 110C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\css-select\lib\esm\compile.d.ts.map133507482700565952 0
-164C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\index.c294d8fc.css133507485924957930 0
+164C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\index.c294d8fc.css133507492536960873 0
 108C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\css-select\lib\esm\compile.js.map133507482700775956 0
 106C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\css-select\lib\esm\general.d.ts133507482703875940 0
 110C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\css-select\lib\esm\general.d.ts.map133507482701105937 0
@@ -4276,7 +4283,7 @@
 106C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\caniuse-lite\data\regions\BR.js133507482703825953 0
 106C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\caniuse-lite\data\regions\BT.js133507482704315954 0
 106C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\caniuse-lite\data\regions\CA.js133507482704585960 0
-161C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\refs\heads133507485927867928 1
+161C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\refs\heads133507492536120615 1
 104C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\utils\src\throttle.js133507482703845946 0
 108C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@swc\helpers\_\_apply_decs_2203_r133507482707555928 1
 106C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\caniuse-lite\data\regions\CG.js133507482704945942 0
@@ -4813,6 +4820,7 @@
 121C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\caniuse-lite\data\features\web-app-manifest.js133507482716105929 0
 111C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\caniuse-lite\data\features\webhid.js133507482716215950 0
 121C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\caniuse-lite\data\features\webkit-user-drag.js133507482716235944 0
+161C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\objects\b9133507492530388630 1
 91C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\async\forEach.js133507483933459350 0
 151C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\MediaFeature.js133507482704405949 0
 110C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\caniuse-lite\data\features\webvr.js133507482716315947 0
@@ -5037,7 +5045,7 @@
 138C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@swc\helpers\_\_class_apply_descriptor_destructure\package.json133507482707905945 0
 115C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@swc\helpers\_\_await_value\package.json133507482707855933 0
 125C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@swc\helpers\_\_await_async_generator\package.json133507482707825941 0
-167C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\index.28940231.js.map133507485924967944 0
+167C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\index.28940231.js.map133507492536960873 0
 117C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@swc\helpers\cjs\_wrap_async_generator.cjs133507482704675941 0
 122C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@swc\helpers\_\_async_to_generator\package.json133507482707795930 0
 118C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@swc\helpers\_\_async_iterator\package.json133507482707765931 0
@@ -5925,6 +5933,7 @@
 156C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\subselects.js133507482696985935 0
 124C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\optimizer-svgo\node_modules\.bin\svgo.cmd133507482717935953 0
 118C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\optimizer-svgo\lib\SVGOOptimizer.js133507482692455936 0
+200C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\objects\7e\a10d780cf46132544cdd3b782e6c222efdc375133507492530478632 0
 106C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\optimizer-image\LICENSE133507482691696086 0
 111C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\optimizer-image\package.json133507482693125945 0
 157C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeAttributesBySelector.js133507482701135953 0
@@ -6012,7 +6021,7 @@
 132C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\index.js133507482700375938 0
 160C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\2-initialMergeRuleset.js133507482693315939 0
 155C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\3-disjoinRuleset.js133507482693915965 0
-170C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\refs\remotes\origin133507485948273607 1
+170C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\refs\remotes\origin133507492553389735 1
 156C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\8-restructRuleset.js133507482695855954 0
 171C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\prepare\createDeclarationIndexer.js133507482698455958 0
 152C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\prepare\index.js133507482700725937 0
@@ -6284,7 +6293,7 @@
 105C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\core\lib\assetUtils.js133507482700425937 0
 132C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@babel\highlight\node_modules\supports-color\package.json133507482691765963 0
 105C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\core\lib\buildCache.js133507482700665972 0
-145C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git133507485924887978 1
+145C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git133507492536870632 1
 106C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\core\lib\BundleGraph.js133507482701166006 0
 109C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\core\lib\CommittedAsset.js133507482702045939 0
 105C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@parcel\core\lib\Dependency.js133507482702595957 0
@@ -6423,27 +6432,42 @@
 105C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@babel\code-frame\lib\index.js133507482693135933 0
 109C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\@babel\code-frame\lib\index.js.map133507482693875950 0
 90C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages133507485585687361 1
-150C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git133507485927867928 1
-156C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\index.html133507485924907980 0
+150C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git133507492538450645 1
+156C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\index.html133507492536900617 0
 165C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\COMMIT_EDITMSG133507485927687968 0
-157C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\config133507485926537931 0
-155C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\HEAD133507485923813964 0
+157C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\config133507492538440732 0
+155C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\HEAD133507492534900612 0
 156C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\hooks133507485585807383 1
-156C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\index133507485927647966 0
+156C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\index133507492537580625 0
 155C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\info133507485585817382 1
 155C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\logs133507485899832486 1
-158C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\objects133507485928067926 1
+158C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\objects133507492532620623 1
+160C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\ORIG_HEAD133507492536070610 0
 163C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\refs\remotes133507485899722440 1
 160C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\refs\tags133507485585837386 1
 179C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\refs\remotes\origin\gh-pages133507485948243644 0
 166C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\refs\heads\main133507485899822462 0
+161C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\objects\5e133507492529178634 1
+161C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\objects\5f133507492530459398 1
 161C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\objects\76133507485927817927 1
+161C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\objects\7e133507492530498610 1
+161C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\objects\9e133507492526094038 1
+161C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\objects\a3133507492528828625 1
+161C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\objects\ba133507492528778636 1
 213C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\objects\pack\pack-4a2ef3d5adbe366a45369dc36e136321b4d4286d.idx133507485897675694 0
+200C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\objects\e9\14f3a6d0ed1ca24b9e537305aaf7059c621358133507492526114020 0
+200C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\objects\ba\9fa2a116994c71d7f034291fd0fbd498255f28133507492528758686 0
+200C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\objects\a3\5f6c4ac5478bb76261c8146361c5f669f81150133507492528808655 0
+200C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\objects\9e\886619d80b10bfff1350783c1c53b57a118577133507492526074234 0
+200C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\objects\92\6b6e6586dfe0df3e19c7722f2f46d3cb454cbf133507492526154019 0
 200C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\objects\76\dde5cbbebda2aa9ecb4c9c074092eabd61ef9b133507485927697966 0
-160C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\logs\HEAD133507485927847928 0
+200C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\objects\60\97f0e74cef78466d533004c468c33a8b1e7962133507492529068620 0
+200C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\objects\5f\838089bead55f45f084798254c35cb986a0ad8133507492530448627 0
+160C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\logs\HEAD133507492536110603 0
 166C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\logs\refs\heads133507485927858045 1
 168C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\logs\refs\remotes133507485899752449 1
 180C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\logs\refs\remotes\origin\HEAD133507485899762434 0
+180C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\logs\refs\remotes\origin\main133507492532300444 0
 175C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\logs\refs\heads\gh-pages133507485927858045 0
 182C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\hooks\fsmonitor-watchman.sample133507485585737465 0
 178C:\Developpement\Pergaud-2023-2024\Projets SIO1\bootstrap-tp1\node_modules\.cache\gh-pages\git@github.com!flamy39!sio1-bootstrap-landing-page.git\.git\hooks\pre-applypatch.sample133507485585757358 0
